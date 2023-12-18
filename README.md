@@ -14,10 +14,12 @@
 </div>
 
 ##
+* Comisión : 23560
+* Profesor : Nicolas Rivera
 * Nombre : Sergio Lopez
 * DNI : 31983833
 * Mail : sergio_a_lopez@yahoo.com.ar
-* LinkedIn : 
+* LinkedIn : https://www.linkedin.com/in/seralopez
 
 ## Objetivo 🚀
 Crear un ABM de Oradores
