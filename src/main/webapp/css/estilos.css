@@ -1,0 +1,51 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cartas {
+    background-color: black;
+    background-size: initial;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.btn-verde {
+    width: 100%;
+    color: white;
+    background-color: rgb(150, 201, 62)
+}
+
+img.img-header {
+    width: 25%;
+    height: 25%;
+}
+
+img.img-body {
+    width: 100%;
+    height: 500px;
+}
+
+img.img-cien {
+    width: 100%;
+    height: 100%;
+}
+
+h6.texto-centro {
+    line-height: 30px;
+}
+
+body {
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+}
