@@ -20,6 +20,7 @@
 * DNI : 31983833
 * Mail : sergio_a_lopez@yahoo.com.ar
 * LinkedIn : https://www.linkedin.com/in/seralopez
+* Video demostracion : https://youtu.be/LZfoxOvwr1E
 
 ## Objetivo 🚀
 Crear un ABM de Oradores
